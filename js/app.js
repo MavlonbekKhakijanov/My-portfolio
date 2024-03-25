@@ -11,8 +11,13 @@ const projects = [
   },
   {
     title: "tip colculator",
-    githubLink: "https://github.com/MavlonbekKhakijanov/tip-calculator",
+    githubLink: "https://github.com/MavlonbekKhakijanov/tip-calculatorKO",
     vercelLink: "https://tip-calculator-omega-eight.vercel.app/",
+  },
+  {
+    title: "background cars",
+    githubLink: "https://github.com/MavlonbekKhakijanov/background-video",
+    vercelLink: "https://background-video-ten.vercel.app/",
   },
 ];
 
