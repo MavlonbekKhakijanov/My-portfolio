@@ -9,6 +9,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/Span-company",
     vercelLink: "https://span-company.vercel.app/",
   },
+  {
+    title: "tip colculator",
+    githubLink: "https://github.com/MavlonbekKhakijanov/tip-calculator",
+    vercelLink: "https://tip-calculator-omega-eight.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
