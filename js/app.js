@@ -19,6 +19,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/background-video",
     vercelLink: "https://background-video-ten.vercel.app/",
   },
+  {
+    title: "Castaway",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Castawaay-Figma",
+    vercelLink: "https://castawaay-figma.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
