@@ -24,6 +24,12 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/Castawaay-Figma",
     vercelLink: "https://castawaay-figma.vercel.app/",
   },
+  {
+    title: "Create-x",
+    githubLink: "https://github.com/MavlonbekKhakijanov/create-x/tree/main/pages/services",
+    vercelLink:
+      "https://create-x-azure.vercel.app/pages/services/services.html",
+  },
 ];
 
 const template = document.querySelector("template");
