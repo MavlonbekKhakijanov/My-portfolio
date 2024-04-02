@@ -36,6 +36,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/create-x",
     vercelLink: "https://create-x-azure.vercel.app/pages/news/news.html",
   },
+  {
+    title: "animation",
+    githubLink: "https://github.com/MavlonbekKhakijanov/animation",
+    vercelLink: "https://animation-six-bay.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
