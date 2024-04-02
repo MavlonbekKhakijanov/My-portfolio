@@ -26,9 +26,15 @@ const projects = [
   },
   {
     title: "Create-x",
-    githubLink: "https://github.com/MavlonbekKhakijanov/create-x/tree/main/pages/services",
+    githubLink:
+      "https://github.com/MavlonbekKhakijanov/create-x/tree/main/pages/services",
     vercelLink:
       "https://create-x-azure.vercel.app/pages/services/services.html",
+  },
+  {
+    title: "Create-x | news",
+    githubLink: "https://github.com/MavlonbekKhakijanov/create-x",
+    vercelLink: "https://create-x-azure.vercel.app/pages/news/news.html",
   },
 ];
 
