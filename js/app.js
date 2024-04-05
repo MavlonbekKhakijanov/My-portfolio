@@ -41,6 +41,12 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/animation",
     vercelLink: "https://animation-six-bay.vercel.app/",
   },
+
+  {
+    title: "Crowfounding",
+    githubLink: "https://github.com/MavlonbekKhakijanov/crowdfunding",
+    vercelLink: "https://crowdfunding-sepia.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
