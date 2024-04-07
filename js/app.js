@@ -47,6 +47,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/crowdfunding",
     vercelLink: "https://crowdfunding-sepia.vercel.app/",
   },
+  {
+    title: "My-Team",
+    githubLink: "https://github.com/MavlonbekKhakijanov/My-team",
+    vercelLink: "https://my-team-wine.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
