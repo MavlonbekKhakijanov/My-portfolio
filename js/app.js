@@ -48,6 +48,11 @@ const projects = [
     vercelLink: "https://crowdfunding-sepia.vercel.app/",
   },
   {
+    title: "Createx | Contact",
+    githubLink: "https://github.com/MavlonbekKhakijanov/create-x.git",
+    vercelLink: "https://create-x-azure.vercel.app/pages/contact/contact.html",
+  },
+  {
     title: "My-Team",
     githubLink: "https://github.com/MavlonbekKhakijanov/My-team",
     vercelLink: "https://my-team-wine.vercel.app/",
