@@ -57,6 +57,12 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/My-team",
     vercelLink: "https://my-team-wine.vercel.app/",
   },
+  {
+    title: "Prompt",
+    githubLink:
+      "https://github.com/MavlonbekKhakijanov/promptda-ism-kiritish.git",
+    vercelLink: "https://promptda-ism-kiritish.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
