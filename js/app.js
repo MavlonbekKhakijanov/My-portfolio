@@ -63,6 +63,11 @@ const projects = [
       "https://github.com/MavlonbekKhakijanov/promptda-ism-kiritish.git",
     vercelLink: "https://promptda-ism-kiritish.vercel.app/",
   },
+  {
+    title: "if masalalari",
+    githubLink: "https://github.com/MavlonbekKhakijanov/1-dars.git",
+    vercelLink: "https://1-dras.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
