@@ -68,6 +68,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/1-dars.git",
     vercelLink: "https://1-dras.vercel.app/",
   },
+  {
+    title: "for masalalari",
+    githubLink: "https://github.com/MavlonbekKhakijanov/for-masalalari.git",
+    vercelLink: "https://for-masalalari.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
