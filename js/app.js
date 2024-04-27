@@ -73,6 +73,12 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/for-masalalari.git",
     vercelLink: "https://for-masalalari.vercel.app/",
   },
+  {
+    title: "function masalalari",
+    githubLink:
+      "https://github.com/MavlonbekKhakijanov/functions-masalalar.git",
+    vercelLink: "https://functions-masalalar.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
