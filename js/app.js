@@ -79,6 +79,11 @@ const projects = [
       "https://github.com/MavlonbekKhakijanov/functions-masalalar.git",
     vercelLink: "https://functions-masalalar.vercel.app/",
   },
+  {
+    title: "figma-homework",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Graphy.git",
+    vercelLink: "https://graphy-vert.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
