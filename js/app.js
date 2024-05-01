@@ -84,6 +84,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/Graphy.git",
     vercelLink: "https://graphy-vert.vercel.app/",
   },
+  {
+    title: "Array Masalalari",
+    githubLink: "https://github.com/MavlonbekKhakijanov/array-masalalari.git",
+    vercelLink: "https://array-masalalari.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
