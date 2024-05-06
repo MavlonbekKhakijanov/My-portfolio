@@ -100,6 +100,11 @@ const projects = [
       "https://github.com/MavlonbekKhakijanov/array-metodi-masalalari.git",
     vercelLink: "https://array-masalalari.vercel.app/",
   },
+  {
+    title: "array metodi masalalari ",
+    githubLink: "https://github.com/MavlonbekKhakijanov/number-va-sybol.git",
+    vercelLink: "https://number-va-sybol.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
