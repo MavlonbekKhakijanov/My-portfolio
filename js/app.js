@@ -105,6 +105,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/number-va-sybol.git",
     vercelLink: "https://number-va-sybol.vercel.app/",
   },
+  {
+    title: "repetition-task",
+    githubLink: "https://github.com/MavlonbekKhakijanov/repetition-task.git",
+    vercelLink: "https://repetition-task.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
