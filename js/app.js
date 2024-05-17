@@ -110,6 +110,16 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/repetition-task.git",
     vercelLink: "https://repetition-task.vercel.app/",
   },
+  {
+    title: "exam",
+    githubLink: "https://github.com/MavlonbekKhakijanov/4-oy-imtihon.git",
+    vercelLink: "https://4-oy-imtihon-ashen.vercel.app/",
+  },
+  {
+    title: "modal",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Modal.git",
+    vercelLink: "https://modal-rosy-two.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
