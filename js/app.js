@@ -120,6 +120,16 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/Modal.git",
     vercelLink: "https://modal-rosy-two.vercel.app/",
   },
+  {
+    title: "keyCode",
+    githubLink: "https://github.com/MavlonbekKhakijanov/keyCodes.git",
+    vercelLink: "https://key-codes-three.vercel.app/",
+  },
+  {
+    title: "Liner-gardient",
+    githubLink: "https://github.com/MavlonbekKhakijanov/liner-background.git",
+    vercelLink: "https://liner-background.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
