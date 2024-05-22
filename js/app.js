@@ -130,6 +130,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/liner-background.git",
     vercelLink: "https://liner-background.vercel.app/",
   },
+  {
+    title: "bit-music",
+    githubLink: "https://github.com/MavlonbekKhakijanov/bit-music.git",
+    vercelLink: "https://bit-music.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
