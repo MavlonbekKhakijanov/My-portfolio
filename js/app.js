@@ -135,6 +135,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/bit-music.git",
     vercelLink: "https://bit-music.vercel.app/",
   },
+  {
+    title: "guess number",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Guess-Number.git",
+    vercelLink: "https://guess-number-kappa-two.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
