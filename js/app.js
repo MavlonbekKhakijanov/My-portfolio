@@ -137,8 +137,13 @@ const projects = [
   },
   {
     title: "guess number",
-    githubLink: "https://github.com/MavlonbekKhakijanov/Guess-Number.git",
+    githubLink: "https://github.com/MavlonbekKhakijanov/TodoList.git",
     vercelLink: "https://guess-number-kappa-two.vercel.app/",
+  },
+  {
+    title: "Todo-List",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Guess-Number.git",
+    vercelLink: "https://todo-list-two-hazel.vercel.app/",
   },
 ];
 
