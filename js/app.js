@@ -136,6 +136,11 @@ const projects = [
     vercelLink: "https://bit-music.vercel.app/",
   },
   {
+    title: "music player",
+    githubLink: "https://github.com/MavlonbekKhakijanov/MusicPlayer.git",
+    vercelLink: "https://music-player-one-chi.vercel.app/",
+  },
+  {
     title: "guess number",
     githubLink: "https://github.com/MavlonbekKhakijanov/TodoList.git",
     vercelLink: "https://guess-number-kappa-two.vercel.app/",
@@ -161,5 +166,5 @@ projects.forEach((project) => {
   linkGithub.href = project.githubLink;
   linkVercel.href = project.vercelLink;
 
-  worksList.appendChild(clone);
+  worksList.prepend(clone);
 });
