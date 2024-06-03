@@ -150,6 +150,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/Guess-Number.git",
     vercelLink: "https://todo-list-two-hazel.vercel.app/",
   },
+  {
+    title: "Random User",
+    githubLink: "https://github.com/MavlonbekKhakijanov/random-generate.git",
+    vercelLink: "https://random-generate.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
