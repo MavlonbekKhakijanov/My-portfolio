@@ -155,6 +155,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/random-generate.git",
     vercelLink: "https://random-generate.vercel.app/",
   },
+  {
+    title: "Weather App",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Weather-App.git",
+    vercelLink: "https://weather-app-livid-two-49.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
