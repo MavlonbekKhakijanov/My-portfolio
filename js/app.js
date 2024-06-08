@@ -160,6 +160,11 @@ const projects = [
     githubLink: "https://github.com/MavlonbekKhakijanov/Weather-App.git",
     vercelLink: "https://weather-app-livid-two-49.vercel.app/",
   },
+  {
+    title: "Online-shop",
+    githubLink: "https://github.com/MavlonbekKhakijanov/Onlin_Shop.git",
+    vercelLink: "https://onlin-shop-nine.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
